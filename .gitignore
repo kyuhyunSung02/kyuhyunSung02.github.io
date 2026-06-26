@@ -1,8 +1,11 @@
-# Android projects (analysis only, not for deployment)
+# Android projects (analysis only)
 projects/
 
-# Content source files (analysis only, not for deployment)
+# Content source files (analysis only)
 content/
+
+# JD Analysis (local only)
+jd-analysis/
 
 # Android build artifacts
 **/build/
