@@ -1,0 +1,27 @@
+# Android projects (analysis only, not for deployment)
+projects/
+
+# Content source files (analysis only, not for deployment)
+content/
+
+# Android build artifacts
+**/build/
+**/.gradle/
+**/*.apk
+**/*.aab
+**/.idea/
+**/*.iml
+**/local.properties
+**/*.keystore
+
+# Claude Code
+CLAUDE.md
+WORKFLOW.md
+.claude/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
